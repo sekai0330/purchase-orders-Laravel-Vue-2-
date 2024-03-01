@@ -62,7 +62,7 @@ Once installed and built, you need to create database and configure it in .env f
 - git - Source Control
 
 ## Author
-- Ramesh Kumar (inforkgodara)
+- sekai0330
 
 ## Screenshots
 
